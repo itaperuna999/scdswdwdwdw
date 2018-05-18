@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="TC ACTION">
+    <display-name lang="pt">TC ACTION</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC ACTION FULL HD">
+    <display-name lang="pt">TC ACTION FULL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC ACTION HD">
+    <display-name lang="pt">TC ACTION HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC CULT">
+    <display-name lang="pt">TC CULT</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC CULT FULL HD">
+    <display-name lang="pt">TC CULT FULL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC CULT HD">
+    <display-name lang="pt">TC CULT HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC FUN">
+    <display-name lang="pt">TC FUN</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC FUN FULL HD">
+    <display-name lang="pt">TC FUN FULL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC FUN HD">
+    <display-name lang="pt">TC FUN HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC PIPOCA">
+    <display-name lang="pt">TC PIPOCA</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC PIPOCA FULL HD">
+    <display-name lang="pt">TC PIPOCA FULL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC PIPOCA HD">
+    <display-name lang="pt">TC PIPOCA HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC TOUCH">
+    <display-name lang="pt">TC TOUCH</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC TOUCH HD">
+    <display-name lang="pt">TC TOUCH HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC PREMIUM">
+    <display-name lang="pt">TC PREMIUM</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC PREMIUM FULL HD">
+    <display-name lang="pt">TC PREMIUM FULL HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+  <channel id="TC PREMIUM HD">
+    <display-name lang="pt">TC PREMIUM HD</display-name>
+    <url>http://www.clarotv.com.br</url>
+  </channel>
+</tv>
